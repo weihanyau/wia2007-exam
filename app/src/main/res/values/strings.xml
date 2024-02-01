@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rethink Your Drink</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Beverages">
+        <item>Plain Water</item>
+        <item>Other Beverages (Non-sweetened)</item>
+        <item>Other Beverages (Sweetened)</item>
+    </string-array>
+</resources>
